@@ -1,0 +1,509 @@
+Age,BP,Weight,HeartRate,Smoking,PastDiagnosis,Disease
+58,96,72,72,0,1,Healthy
+71,146,118,77,1,0,Obesity
+48,125,83,91,0,0,Diabetes
+34,134,101,91,0,0,Heart Disease
+62,109,61,94,1,2,Heart Disease
+27,154,88,98,1,2,Hypertension
+40,97,69,105,1,0,Diabetes
+58,105,61,88,0,2,Hypertension
+77,103,57,108,0,1,Healthy
+38,165,69,88,1,1,Diabetes
+42,176,112,103,1,1,Healthy
+30,104,54,75,0,0,Hypertension
+30,155,111,103,0,2,Diabetes
+43,121,62,106,1,0,Hypertension
+72,176,78,69,1,2,Diabetes
+55,152,52,89,0,1,Hypertension
+59,175,84,84,1,0,Heart Disease
+43,140,86,98,0,2,Hypertension
+22,114,85,79,0,2,Heart Disease
+41,147,50,64,0,1,Hypertension
+72,152,96,60,0,0,Diabetes
+21,151,70,89,1,0,Diabetes
+43,111,108,108,1,0,Diabetes
+63,147,103,62,0,1,Obesity
+49,147,100,104,0,0,Healthy
+57,175,103,73,0,1,Diabetes
+21,138,114,89,0,1,Heart Disease
+79,141,77,109,0,1,Diabetes
+40,131,97,63,1,2,Obesity
+52,159,66,77,1,0,Heart Disease
+31,104,65,96,1,0,Obesity
+77,143,114,84,1,1,Heart Disease
+41,149,114,107,0,1,Hypertension
+63,97,48,60,0,0,Healthy
+44,142,119,105,0,1,Healthy
+68,149,106,74,0,0,Obesity
+46,94,106,68,0,2,Healthy
+78,157,68,74,1,1,Obesity
+61,95,99,108,0,0,Obesity
+47,136,53,83,1,1,Obesity
+79,144,47,63,1,0,Healthy
+35,129,75,71,1,0,Obesity
+34,141,84,96,1,1,Healthy
+66,105,80,96,0,2,Obesity
+70,102,68,102,1,0,Diabetes
+63,119,50,65,1,0,Obesity
+74,108,110,98,1,0,Heart Disease
+71,106,119,105,0,2,Obesity
+76,152,48,83,0,2,Hypertension
+22,108,50,70,0,1,Obesity
+56,147,95,72,1,2,Heart Disease
+70,144,106,93,1,1,Heart Disease
+26,179,101,84,0,1,Healthy
+40,179,110,66,1,2,Diabetes
+28,151,119,63,0,1,Obesity
+58,112,52,67,0,2,Healthy
+37,98,70,79,1,1,Diabetes
+23,101,95,88,1,2,Obesity
+44,90,89,104,1,2,Hypertension
+79,147,88,105,1,1,Obesity
+33,90,49,69,0,0,Heart Disease
+69,123,114,102,0,1,Heart Disease
+77,137,70,93,0,2,Hypertension
+28,178,112,85,0,0,Healthy
+45,90,63,100,0,1,Diabetes
+72,105,64,108,1,1,Obesity
+21,150,56,62,0,1,Heart Disease
+39,153,91,65,0,0,Healthy
+47,152,45,64,0,2,Hypertension
+66,158,58,64,1,1,Heart Disease
+79,111,108,106,1,1,Hypertension
+26,156,82,82,1,1,Obesity
+63,165,81,108,1,1,Diabetes
+27,115,55,68,0,1,Heart Disease
+66,105,47,94,0,2,Heart Disease
+54,140,77,79,1,2,Obesity
+33,175,50,108,1,1,Healthy
+36,146,94,101,0,0,Diabetes
+55,118,54,94,0,2,Heart Disease
+69,167,49,109,1,0,Diabetes
+59,158,67,77,1,2,Heart Disease
+23,136,54,76,1,1,Diabetes
+21,151,88,83,1,2,Hypertension
+25,158,46,62,0,1,Heart Disease
+73,165,57,91,0,2,Diabetes
+61,105,84,94,0,1,Healthy
+23,179,46,97,1,1,Hypertension
+73,179,109,72,1,1,Hypertension
+48,137,107,106,0,1,Healthy
+37,174,117,84,0,0,Diabetes
+45,128,61,68,0,1,Obesity
+63,122,53,63,0,0,Healthy
+53,112,119,73,1,0,Diabetes
+29,99,59,96,0,1,Healthy
+55,158,68,93,0,0,Healthy
+33,123,82,70,0,2,Heart Disease
+50,141,79,100,0,1,Diabetes
+67,99,93,62,0,0,Obesity
+34,108,113,87,0,1,Heart Disease
+27,147,106,88,0,1,Healthy
+33,90,104,68,1,1,Healthy
+42,158,94,62,1,0,Healthy
+79,93,119,84,1,2,Diabetes
+76,105,53,93,1,2,Diabetes
+59,113,78,71,0,0,Heart Disease
+40,169,79,101,1,1,Obesity
+35,91,45,68,1,0,Heart Disease
+64,121,84,74,0,0,Hypertension
+37,173,108,99,0,0,Healthy
+66,113,66,84,1,1,Healthy
+72,101,104,64,1,0,Healthy
+43,139,108,70,0,1,Heart Disease
+45,124,116,93,1,0,Heart Disease
+44,122,55,83,0,2,Healthy
+79,122,58,74,0,0,Heart Disease
+79,150,104,97,0,0,Diabetes
+79,140,74,67,0,2,Diabetes
+64,132,79,64,1,1,Heart Disease
+60,101,81,107,0,1,Healthy
+48,156,49,85,0,0,Heart Disease
+34,154,70,77,1,2,Heart Disease
+64,122,106,65,0,1,Heart Disease
+20,129,48,96,1,0,Hypertension
+44,163,86,107,1,2,Diabetes
+26,132,62,72,1,1,Obesity
+28,133,84,87,0,1,Obesity
+43,118,116,64,1,2,Hypertension
+20,102,83,72,1,2,Heart Disease
+63,101,58,76,0,2,Hypertension
+27,135,76,109,1,2,Hypertension
+43,91,95,99,1,0,Healthy
+30,124,82,104,1,2,Diabetes
+70,176,67,91,1,1,Obesity
+36,170,107,88,1,1,Heart Disease
+27,179,59,62,0,0,Obesity
+54,97,69,99,1,1,Obesity
+54,115,61,93,1,1,Diabetes
+52,163,110,99,0,2,Obesity
+78,179,97,86,0,1,Obesity
+24,123,95,72,0,0,Hypertension
+61,96,83,104,1,2,Diabetes
+58,157,95,92,0,2,Healthy
+77,147,114,65,1,0,Heart Disease
+60,164,50,83,1,2,Obesity
+47,118,111,78,0,2,Heart Disease
+26,125,51,75,0,0,Healthy
+28,178,95,99,1,2,Heart Disease
+27,110,116,87,0,0,Healthy
+31,125,86,92,1,0,Hypertension
+53,99,108,107,0,1,Obesity
+52,162,59,100,0,1,Healthy
+67,113,73,72,0,2,Heart Disease
+74,153,77,102,1,2,Obesity
+42,138,71,104,0,0,Hypertension
+43,125,80,84,1,2,Obesity
+56,171,73,101,1,0,Healthy
+54,113,82,95,1,0,Hypertension
+63,112,101,86,1,2,Heart Disease
+59,151,71,97,0,0,Hypertension
+41,126,99,66,1,1,Hypertension
+46,101,77,64,1,2,Diabetes
+54,144,112,102,0,1,Hypertension
+20,102,110,104,1,2,Hypertension
+54,112,54,90,0,0,Obesity
+56,178,49,82,1,2,Heart Disease
+66,119,118,101,0,1,Obesity
+33,106,82,69,1,0,Obesity
+22,151,57,91,0,2,Healthy
+20,173,75,102,1,2,Obesity
+24,178,91,89,1,2,Diabetes
+45,175,96,98,0,1,Diabetes
+74,102,100,90,0,1,Healthy
+33,148,59,77,0,2,Heart Disease
+58,108,73,95,0,0,Heart Disease
+46,138,52,61,1,0,Obesity
+28,101,49,73,1,1,Obesity
+34,150,73,72,0,0,Obesity
+34,108,91,88,1,1,Heart Disease
+45,165,112,71,0,2,Hypertension
+61,98,89,98,0,1,Diabetes
+79,160,46,61,1,1,Hypertension
+32,117,71,91,1,2,Hypertension
+70,167,80,72,1,0,Heart Disease
+51,141,80,105,1,1,Hypertension
+58,172,70,86,1,1,Healthy
+68,105,87,108,1,2,Obesity
+71,158,71,100,1,0,Healthy
+51,101,113,76,0,1,Diabetes
+23,114,64,99,0,2,Obesity
+49,141,55,90,0,1,Hypertension
+56,174,118,93,0,2,Diabetes
+42,142,82,83,0,0,Obesity
+58,112,50,104,1,0,Hypertension
+64,105,116,94,0,0,Healthy
+34,146,67,107,0,0,Obesity
+62,128,91,65,0,1,Hypertension
+48,142,90,78,0,1,Healthy
+55,131,56,89,0,0,Diabetes
+32,147,57,66,0,0,Diabetes
+51,128,106,69,0,0,Diabetes
+26,103,104,100,1,1,Diabetes
+78,94,87,91,1,0,Heart Disease
+70,124,112,93,0,0,Obesity
+41,176,49,87,1,0,Obesity
+47,164,81,74,1,2,Heart Disease
+21,107,116,89,1,0,Hypertension
+61,165,75,96,1,2,Hypertension
+64,98,53,88,0,2,Diabetes
+76,163,95,81,1,0,Healthy
+72,147,73,63,1,2,Hypertension
+25,106,84,79,1,0,Healthy
+47,96,85,91,0,1,Obesity
+47,135,55,95,0,1,Healthy
+63,102,67,109,0,1,Obesity
+63,129,45,63,0,1,Heart Disease
+39,131,90,86,0,2,Heart Disease
+49,98,65,76,0,0,Diabetes
+30,139,80,71,0,0,Hypertension
+77,116,98,81,1,0,Diabetes
+74,155,101,76,1,1,Obesity
+47,94,45,69,1,1,Diabetes
+44,118,107,60,0,0,Healthy
+58,126,98,81,0,1,Obesity
+52,127,99,85,0,0,Heart Disease
+20,172,84,77,0,0,Hypertension
+76,97,59,109,0,0,Obesity
+46,154,65,73,1,0,Obesity
+76,175,91,106,1,0,Healthy
+71,106,117,88,0,0,Hypertension
+32,160,97,71,0,0,Heart Disease
+60,178,53,95,0,1,Obesity
+22,134,118,94,0,0,Obesity
+58,93,96,71,1,0,Healthy
+25,125,101,66,0,1,Diabetes
+27,159,70,88,0,1,Heart Disease
+46,120,85,70,0,1,Hypertension
+28,108,79,92,0,0,Obesity
+56,150,107,65,1,2,Obesity
+52,143,69,106,0,2,Heart Disease
+70,128,119,74,0,1,Diabetes
+61,163,82,91,1,2,Obesity
+63,179,46,70,1,1,Heart Disease
+43,108,51,82,1,0,Healthy
+34,128,78,85,0,2,Diabetes
+78,156,61,93,0,0,Hypertension
+73,134,87,105,1,2,Obesity
+51,102,103,93,1,0,Heart Disease
+51,147,95,88,1,2,Healthy
+43,109,98,63,1,0,Hypertension
+60,161,68,76,1,0,Heart Disease
+71,150,69,94,1,2,Heart Disease
+68,128,115,72,0,0,Hypertension
+68,90,96,100,0,0,Healthy
+77,92,114,98,0,0,Healthy
+71,166,77,74,1,2,Diabetes
+31,151,93,88,1,2,Obesity
+58,152,73,88,1,0,Hypertension
+21,114,107,70,1,0,Hypertension
+22,145,66,91,1,2,Hypertension
+68,122,70,61,1,2,Healthy
+56,127,72,106,0,0,Obesity
+68,95,93,73,0,0,Diabetes
+75,147,115,79,1,0,Heart Disease
+36,133,93,81,0,1,Heart Disease
+78,134,64,70,1,2,Hypertension
+68,121,107,86,0,1,Obesity
+21,134,105,62,1,2,Healthy
+21,150,93,76,1,2,Obesity
+47,136,115,103,0,2,Obesity
+73,110,45,87,0,2,Healthy
+42,169,57,88,1,2,Hypertension
+56,174,95,80,1,2,Obesity
+51,164,100,106,0,2,Heart Disease
+52,125,106,75,0,1,Healthy
+20,108,76,96,1,0,Diabetes
+38,109,74,79,0,0,Hypertension
+21,146,73,65,1,1,Healthy
+72,107,93,78,1,1,Diabetes
+63,136,89,64,1,1,Diabetes
+45,138,74,62,1,1,Obesity
+51,103,60,60,0,2,Obesity
+25,104,84,97,0,0,Obesity
+51,120,63,74,0,2,Healthy
+74,90,62,93,0,0,Healthy
+23,143,45,94,0,0,Hypertension
+74,92,91,108,0,1,Obesity
+30,105,110,84,0,2,Diabetes
+75,176,82,83,1,1,Heart Disease
+78,146,95,71,0,2,Hypertension
+36,164,107,77,0,0,Healthy
+57,101,48,74,1,1,Hypertension
+43,163,45,103,0,1,Hypertension
+24,105,52,75,0,0,Hypertension
+71,161,73,86,1,0,Hypertension
+53,165,99,67,0,0,Heart Disease
+25,113,47,105,0,1,Obesity
+41,117,76,84,0,2,Diabetes
+30,97,54,76,1,1,Hypertension
+67,125,118,88,0,2,Hypertension
+35,179,78,67,0,1,Hypertension
+52,97,99,74,1,1,Obesity
+28,147,76,86,0,0,Healthy
+79,149,94,105,1,2,Healthy
+78,139,51,109,1,1,Heart Disease
+25,117,52,66,0,1,Healthy
+35,130,109,62,1,0,Hypertension
+48,153,101,88,1,0,Hypertension
+22,116,111,103,0,2,Hypertension
+39,152,103,83,1,1,Heart Disease
+79,106,116,62,1,2,Hypertension
+78,162,98,79,0,1,Healthy
+55,122,111,105,0,2,Obesity
+38,173,95,74,0,0,Obesity
+45,166,52,84,1,1,Diabetes
+22,118,78,89,0,2,Healthy
+38,102,79,73,1,0,Hypertension
+39,135,76,66,1,0,Obesity
+51,124,90,76,1,2,Healthy
+26,95,60,103,1,1,Obesity
+71,171,112,79,1,1,Hypertension
+60,158,81,95,1,0,Obesity
+52,136,98,68,1,1,Diabetes
+59,114,58,97,0,1,Diabetes
+58,155,99,107,0,1,Obesity
+37,99,92,81,1,0,Healthy
+59,145,51,61,1,2,Healthy
+20,119,118,83,0,1,Healthy
+30,94,51,67,1,0,Obesity
+47,122,77,70,0,0,Healthy
+76,154,67,72,0,2,Hypertension
+44,107,63,76,0,1,Diabetes
+69,138,63,67,1,1,Hypertension
+42,100,80,80,1,2,Healthy
+50,174,73,77,0,2,Hypertension
+49,115,104,89,0,0,Healthy
+61,152,46,77,0,0,Obesity
+54,178,45,105,0,2,Hypertension
+26,175,91,106,0,1,Obesity
+79,148,113,90,1,0,Obesity
+35,116,64,97,0,0,Heart Disease
+45,138,55,91,1,1,Healthy
+67,166,46,70,0,0,Diabetes
+76,122,111,104,1,1,Healthy
+71,90,56,84,1,1,Diabetes
+79,110,64,92,1,1,Healthy
+68,144,49,97,1,2,Obesity
+21,95,81,100,1,2,Hypertension
+20,170,82,67,1,2,Hypertension
+67,158,53,70,0,1,Heart Disease
+31,94,97,81,1,1,Diabetes
+24,92,88,83,0,2,Diabetes
+56,142,68,100,1,0,Diabetes
+51,112,118,76,1,1,Obesity
+78,142,74,71,0,0,Diabetes
+74,126,103,105,1,0,Hypertension
+28,163,58,91,0,1,Obesity
+60,163,53,74,0,1,Healthy
+54,172,84,75,0,0,Diabetes
+38,106,110,81,0,0,Diabetes
+67,174,69,87,1,2,Healthy
+35,167,117,79,1,2,Diabetes
+22,162,66,92,0,1,Healthy
+39,90,48,69,1,2,Obesity
+43,140,70,99,1,2,Hypertension
+73,134,102,91,0,2,Healthy
+75,166,73,109,1,2,Heart Disease
+52,93,81,92,0,0,Healthy
+43,151,119,61,0,1,Diabetes
+71,154,114,92,1,2,Obesity
+30,121,62,92,1,0,Obesity
+68,123,86,100,1,0,Healthy
+27,161,85,72,0,0,Hypertension
+55,128,82,89,0,2,Heart Disease
+57,115,78,92,1,2,Obesity
+59,123,61,72,1,1,Diabetes
+39,143,81,85,1,2,Diabetes
+54,92,69,81,1,2,Hypertension
+67,139,71,98,0,0,Obesity
+44,101,101,61,1,1,Healthy
+54,154,75,97,0,2,Diabetes
+44,143,50,98,0,2,Hypertension
+48,94,84,85,1,0,Obesity
+37,146,56,105,1,0,Obesity
+65,106,97,109,1,2,Obesity
+37,136,115,74,0,1,Obesity
+21,112,54,93,1,1,Obesity
+73,168,89,101,1,0,Diabetes
+54,174,61,103,0,0,Hypertension
+35,103,70,108,1,2,Obesity
+60,155,106,99,0,0,Heart Disease
+55,164,90,70,1,2,Heart Disease
+52,140,108,62,0,1,Hypertension
+23,127,46,65,1,1,Healthy
+52,153,98,68,1,2,Healthy
+33,127,109,65,0,0,Healthy
+40,139,95,68,0,1,Heart Disease
+67,171,97,98,1,0,Healthy
+39,119,80,90,0,1,Diabetes
+75,168,70,91,0,2,Obesity
+27,140,73,100,0,2,Heart Disease
+26,152,65,109,0,2,Hypertension
+22,141,55,71,1,1,Hypertension
+36,127,84,67,1,0,Obesity
+52,177,55,67,0,0,Heart Disease
+67,168,80,109,0,0,Healthy
+31,119,103,87,0,1,Healthy
+78,140,83,79,0,1,Diabetes
+70,170,98,106,1,1,Diabetes
+41,94,99,66,1,1,Healthy
+74,118,68,70,0,1,Hypertension
+41,93,66,79,0,0,Hypertension
+65,99,113,75,0,1,Diabetes
+49,145,100,63,1,1,Obesity
+57,106,77,65,0,0,Healthy
+57,163,80,81,1,1,Diabetes
+64,106,64,85,0,0,Diabetes
+70,173,106,62,1,0,Healthy
+73,177,117,100,0,2,Healthy
+27,158,70,101,1,2,Hypertension
+46,123,110,73,0,2,Obesity
+46,95,117,70,0,2,Obesity
+53,142,117,77,0,1,Healthy
+40,155,84,71,1,2,Heart Disease
+49,166,61,82,0,0,Diabetes
+52,132,45,71,1,1,Diabetes
+47,164,105,72,1,2,Healthy
+66,112,87,84,0,0,Heart Disease
+52,144,86,104,0,1,Hypertension
+24,169,69,78,0,1,Healthy
+79,164,83,105,1,2,Healthy
+67,105,79,95,0,1,Diabetes
+38,97,47,104,1,0,Healthy
+23,93,88,67,1,1,Healthy
+54,93,95,88,0,0,Healthy
+68,145,56,91,0,1,Diabetes
+36,114,63,103,0,2,Hypertension
+63,156,88,77,0,0,Hypertension
+47,156,103,65,0,1,Healthy
+49,116,93,77,0,1,Diabetes
+48,121,105,78,1,1,Hypertension
+65,139,61,81,1,0,Hypertension
+72,150,118,96,1,0,Hypertension
+25,140,101,91,0,0,Diabetes
+54,108,99,100,1,2,Diabetes
+79,110,91,62,1,2,Healthy
+60,94,56,87,1,0,Obesity
+56,171,106,69,1,1,Hypertension
+43,131,52,94,1,2,Obesity
+48,150,65,88,0,0,Diabetes
+68,111,114,74,0,1,Diabetes
+65,110,116,92,1,2,Diabetes
+72,159,69,66,1,1,Obesity
+50,90,56,71,1,1,Diabetes
+54,94,59,108,0,1,Healthy
+79,101,103,89,0,1,Diabetes
+52,179,70,80,1,2,Heart Disease
+71,135,70,90,0,2,Obesity
+40,123,91,83,0,2,Heart Disease
+51,138,76,79,1,0,Diabetes
+42,167,54,96,0,2,Healthy
+52,179,60,63,0,1,Hypertension
+22,134,115,87,1,2,Diabetes
+37,116,61,103,0,1,Healthy
+44,162,67,79,0,0,Obesity
+61,115,70,83,1,1,Heart Disease
+50,136,51,109,0,1,Heart Disease
+73,175,58,108,0,1,Heart Disease
+77,145,51,91,1,0,Obesity
+22,152,53,100,1,2,Healthy
+59,137,92,95,1,2,Obesity
+65,150,116,93,0,0,Heart Disease
+43,170,103,95,1,1,Diabetes
+69,115,83,61,0,2,Hypertension
+51,125,62,74,1,0,Obesity
+66,90,103,93,0,2,Obesity
+41,97,61,95,1,0,Healthy
+42,141,58,65,1,1,Healthy
+21,168,75,98,1,2,Obesity
+46,136,68,101,1,0,Heart Disease
+61,145,104,71,0,2,Hypertension
+21,175,89,62,1,2,Healthy
+45,103,47,104,1,2,Heart Disease
+36,179,81,77,0,2,Diabetes
+59,117,87,99,1,0,Healthy
+52,176,84,80,0,1,Heart Disease
+28,167,99,74,1,0,Heart Disease
+62,177,83,92,1,0,Hypertension
+73,91,59,94,1,0,Hypertension
+67,115,48,85,0,1,Diabetes
+58,103,69,67,1,2,Heart Disease
+48,148,57,95,1,2,Heart Disease
+61,145,77,107,1,2,Hypertension
+74,96,60,89,0,1,Healthy
+45,92,86,82,0,2,Healthy
+54,112,110,101,1,1,Obesity
+69,107,99,103,0,2,Hypertension
+44,127,86,73,1,2,Obesity
+43,104,78,73,1,0,Hypertension
+32,153,74,61,1,1,Diabetes
+79,178,57,96,1,0,Heart Disease
+20,120,85,108,0,0,Hypertension
+21,120,85,108,0,0,Hypertension
+21,120,82,108,0,0,Hypertension
+21,120,85,90,0,1,Heart Disease
+21,120,70,78,0,0,Hypertension
+21,120,80,78,0,0,Hypertension
+25,120,78,75,0,1,Healthy
+35,120,90,173,0,1,Healthy

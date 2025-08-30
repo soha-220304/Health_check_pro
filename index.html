@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VitalCheck Pro</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='index.css') }}">
+</head>
+<body>
+
+    <header class="hero-section">
+        <div class="container">
+            <div class="hero-content">
+                <div class="logo">
+                    <svg class="heart-icon" xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path></svg>
+                </div>
+                <h1>VitalCheck Pro</h1>
+                <p>Advanced health risk assessment powered by intelligent algorithms. Get instant insights into your health status with our comprehensive analysis.</p>
+                <div class="hero-buttons">
+                    <a href="#assessment-form" class="btn btn-primary">Start Health Assessment</a>
+                    <a href="#" class="btn btn-secondary">Learn More</a>
+                </div>
+            </div>
+            <div class="features">
+                <div class="feature">
+                    <div class="feature-icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="22 12 18 12 15 21 9 3 6 12 2 12"></polyline></svg>
+                    </div>
+                    <h3>Vital Signs Analysis</h3>
+                    <p>Comprehensive evaluation of blood pressure, heart rate, and weight metrics.</p>
+                </div>
+                <div class="feature">
+                    <div class="feature-icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2a10 10 0 0 0-9.4 13.5c.6.8 1.5 1.5 2.4 2.4.9.9 1.6 1.8 2.4 2.4A10 10 0 0 0 12 22a10 10 0 0 0 9.4-6.5c-.6-.8-1.5-1.5-2.4-2.4-.9-.9-1.6-1.8-2.4-2.4A10 10 0 0 0 12 2z"></path><path d="M12 12a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"></path></svg>
+                    </div>
+                    <h3>Medical History</h3>
+                    <p>Personalized risk assessment based on your medical background.</p>
+                </div>
+                <div class="feature">
+                    <div class="feature-icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"></path></svg>
+                    </div>
+                    <h3>Instant Results</h3>
+                    <p>Get your health risk level assessment in seconds with detailed insights.</p>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <main id="assessment-form" class="assessment-section">
+        <div class="container">
+            <h2>Health Risk Assessment</h2>
+            <p class="section-description">Get a comprehensive analysis of your health status based on key vital signs and medical history.</p>
+            <form id="health-form" class="health-form-card">
+                <div class="form-header">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path></svg>
+                    <h3>Health Information</h3>
+                    <p>Please provide accurate information for the most reliable assessment.</p>
+                </div>
+                <div class="form-grid">
+                    <div class="form-group">
+                        <label for="age">Age (years)</label>
+                        <input type="number" id="age" name="age" placeholder="e.g., 35">
+                    </div>
+                    <div class="form-group">
+                        <label for="bp">Blood Pressure (mmHg)</label>
+                        <input type="number" id="bp" name="bp" placeholder="e.g., 120">
+                    </div>
+                    <div class="form-group">
+                        <label for="weight">Weight (kg)</label>
+                        <input type="number" id="weight" name="weight" placeholder="e.g., 70">
+                    </div>
+                    <div class="form-group">
+                        <label for="hr">Heart Rate (bpm)</label>
+                        <input type="number" id="hr" name="hr" placeholder="e.g., 72">
+                    </div>
+                    <div class="form-group form-group-full">
+                        <label>Do you smoke?</label>
+                        <div class="radio-group">
+                            <label for="smoke-no"><input type="radio" id="smoke-no" name="smoking" value="no" checked> No</label>
+                            <label for="smoke-yes"><input type="radio" id="smoke-yes" name="smoking" value="yes"> Yes</label>
+                        </div>
+                    </div>
+                    <div class="form-group form-group-full">
+                        <label for="history">Medical History</label>
+                        <select id="history" name="history">
+                            <option value="">Select any existing conditions</option>
+                            <option value="none">None</option>
+                            <option value="heart-disease">Heart Disease</option>
+                            <option value="hypertension">Hypertension</option>
+                            <option value="diabetes">Diabetes</option>
+                        </select>
+                    </div>
+                </div>
+                <button type="submit" class="btn btn-submit">Analyze Health Status</button>
+            </form>
+        </div>
+    </main>
+
+    <section id="result-section" class="result-section" style="display: none;">
+        <div class="container">
+            <h2>Assessment Result</h2>
+            <div class="result-card">
+                <h3 id="risk-level" class="risk-level">Low Risk</h3>
+                <p id="result-text" class="result-description">This is a preliminary assessment. Please consult with a healthcare professional for detailed evaluation.</p>
+                <button onclick="location.reload()" class="btn btn-primary start-new">Start New Assessment</button>
+            </div>
+        </div>
+    </section>
+
+    <footer >
+        <div class="container">
+            <p>&copy; 2025 VitalCheck Pro. This tool is for informational purposes only and should not replace professional medical advice. (Astro87)</p>
+        </div>
+    </footer>
+
+    <script src="{{ url_for('static', filename='index.js') }}"></script>
+</body>
+</html>
